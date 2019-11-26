@@ -43,7 +43,7 @@ header nav {
   padding: 14px;
 }
 /*BUSCADORRRRRRRRRRRR*/
-.search-box {
+/* .search-box {
   position: absolute;
   top: 6.4%;
   left: 10%;
@@ -85,13 +85,13 @@ header nav {
   transition: 0.4s;
   line-height: 40px;
   width: 0px;
-}
+} */
 
-/* .search-box input {
+.search-box input {
   margin: 10px 10px;
   border-radius: 10px;
   padding: 10px;
-} */
+}
 nav > li {
   float:left;
   list-style: none;
